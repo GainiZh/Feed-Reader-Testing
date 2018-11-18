@@ -25,8 +25,8 @@ Download the files and save them in a folder. Then open the index.html file in a
 - If allFeeds variable has names and they are not empty
 - If the menu element is hidden
 - If the menu changes its visibility on click event
-- When the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container
-- When a new feed is loaded by the loadFeed function that the content changes.
+- If there is at least a single .entry element within the .feed container
+- If the content changes when a new feed is loaded by the loadFeed function
 
 ## Built with
 
