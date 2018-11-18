@@ -10,7 +10,7 @@
 This is the fifth project of the Udacity's Nanodegree Front-End Developer.
 The goal of the project is to learn how to use [Jasmine](https://jasmine.github.io/) - an open source testing framework for JavaScript.
 
-![image](images/Screenshot result.png)
+![image](images/screenshot-result.png)
 
 Further instructions of Udacity can be found [here](https://github.com/udacity/frontend-nanodegree-feedreader).
 
