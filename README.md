@@ -5,7 +5,7 @@
 * [What does this test check?](#what-does-this-test-check?)
 * [Built with](#built-with)
 
-# Project Overview
+##Project Overview
 
 This is the fifth project of the Udacity's Nanodegree Front-End Developer.
 The goal of the project is to learn how to use [Jasmine](https://jasmine.github.io/) - an open source testing framework for JavaScript.
@@ -14,11 +14,11 @@ The goal of the project is to learn how to use [Jasmine](https://jasmine.github.
 
 Further instructions of Udacity can be found [here](https://github.com/udacity/frontend-nanodegree-feedreader).
 
-#How to run the application?
+##How to run the application?
 
 Download the files and save them in a folder. Then open the index.html file in a browser.
 
-#What does this test check?
+##What does this test check?
 
 - If allFeeds variable is defined and not empty
 - If allFeeds variable has URLs and they are not empty
