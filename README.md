@@ -1,8 +1,8 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [How to run the application?](#how-to-run-the-application?)
-* [What does this test check?](#what-does-this-test-check?)
+* [How to run the application?](#how-to-run-the-application-?)
+* [What does this test check?](#what-does-this-test-check-?)
 * [Built with](#built-with)
 
 ## Project Overview
