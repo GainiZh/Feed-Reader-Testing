@@ -69,7 +69,6 @@ $(function() {
         loadFeed(1, function() {
           //check if the first feed is loaded
           console.log('Feed 1 loaded')
-
           feedOne = $('.feed').html();
         loadFeed(2, function() {
           //check if the second feed is loaded
